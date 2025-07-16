@@ -60,12 +60,37 @@ h2{
     }
 
     img{
-        padding-left:35%
-        margin: top 25px; 
-
+        padding-left:35%;
+        width: 70%;
         
+    }
+
+    .Colonne0{
+        padding: 2em 1em;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .ColonneP{
+        width: 100%;
+        padding:30px;
+        background-color: blueviolet;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
         
 
     }
 
-    
+    .Co1{
+         width: 150px;
+        background-color: darkblue;
+        padding: 30px 0;
+        margin: 10px;
+        text-align: center;
+        border-radius: 1em;
+        box-shadow:0 2px 8px;
+        
+    }
